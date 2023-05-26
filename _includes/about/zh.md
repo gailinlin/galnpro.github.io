@@ -1,11 +1,8 @@
 Hey，我是盖琳琳，来自[上海海事大学](https://www.shmtu.edu.cn/)外国语学院。没有什么理想，但想去更广阔的世界，拥有更多的可能性。赞同一句话：只有读书和友谊才能拯救我们颓败的灵魂。
 
-现为 <del>Facebook</del> Meta 签约软件工程师，就职于开源技术<del>网红</del>团队 [React](https://beta.reactjs.org/community/meet-the-team#react-core)，曾参与 [Hermes JavaScript 引擎](https://hermesengine.dev/)，[ReasonML](https://reasonml.github.io/) (现 [ReScript](https://rescript-lang.org/))，以及 [Reality Labs](https://tech.fb.com/ar-vr/) 某保密项目等。在国内期间，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
+欢迎关注我的[B站](https://space.bilibili.com/326423450?spm_id_from=333.999.0.0)、[Github](https://github.com/gailinlin) 。
 
-
-目前的物理活动范围主要在美帝纽约与硅谷，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[B站](https://space.bilibili.com/43271611)、[Instagram](https://www.instagram.com/huxpro/)、[推特](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro) 等。
-
-##### 演讲与分享
+##### 读书与电影
 
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog
 - [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
