@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "女性如何拥有更多的可能性"
-subtitle:   "信息、载体、抽象、UI 设计乱谈"
+subtitle:   "自由、强大、不被束缚"
 date:       2023-05-26
 author:     "Galn"
 header-img: "img/post-bg-os-metro.jpg"
