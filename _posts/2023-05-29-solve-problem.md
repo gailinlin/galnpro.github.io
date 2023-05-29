@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "如何锻炼解决问题的能力"
-subtitle: "So long, and thanks for all the Flash"
-author: "Hux"
+subtitle: "逃避不可耻，但是没有用"
+author: "Gai Linlin"
 header-img: "img/post-bg-farewell-flash.jpg"
 header-mask: 0.2
 tags:
