@@ -7,7 +7,7 @@ author:     "Gal Linlin"
 header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
-  - hUX 随想录
+  - 随想录
 ---
 
 
