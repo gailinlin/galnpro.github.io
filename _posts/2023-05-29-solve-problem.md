@@ -76,9 +76,3 @@ Google 的 NativeClient、Mozilla 的 asm.js 对于 web 追逐 native 性能的�
 > Flash led the way on the web for rich content, gaming, animations, and media of all kinds, and **inspired many of the current web standards powering HTML5.**  
 >   
 > --- "[The End of an Era – Next Steps for Adobe Flash](https://blogs.windows.com/msedgedev/2017/07/25/flash-on-windows-timeline/)" Windows Blog
-
-  
-
-感谢你，Flash。
-
-感谢你们，那些「功成身退」的你们。
