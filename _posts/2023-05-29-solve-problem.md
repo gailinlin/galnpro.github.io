@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Farewell, Flash. 感谢你，但这一次是真正的永别。"
+title: "如何锻炼解决问题的能力"
 subtitle: "So long, and thanks for all the Flash"
 author: "Hux"
 header-img: "img/post-bg-farewell-flash.jpg"
@@ -9,9 +9,7 @@ tags:
   - 常常思考
 ---
 
-> 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/28109200)，转载请保留链接 ;)
-
-一年半前，我曾和 Flash 作过一次告别。那一次，Adobe Flash Professional CC 被重新命名为了 Adobe Animate CC，宣告着 Flash 作为一个创作工具走到了尽头。
+世界上的所有问题不一定都有答案，那么所有问题都有解决的办法吗？
 
 
 ![](/img/in-post/post-f-f-weibo.png)
