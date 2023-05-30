@@ -23,3 +23,4 @@ Contact: 757038223@qq.com; gailinlin2023@gmail.com
 * Blog
 * Machine Translation
 
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
