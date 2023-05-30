@@ -6,14 +6,14 @@ Contact: 757038223@qq.com; gailinlin2023@gmail.com
 
 ---
 
-#### Introduction
+### Introduction
 
-### Education
+#### Education
 
-* Business English, Foreign Languages College, Shanghai Maritime University  2017.09-2021.06
+* 2017.09-2021.06   Business English, Foreign Languages College, Shanghai Maritime University  
 
-* MTI, Foreign Languages College, Shanghai Maritime University  2021.09-2024.04
+* 2021.09-2024.04   MTI, Foreign Languages College, Shanghai Maritime University  
 
-### Certificate
+#### Certificate
 
 * TEM-8
