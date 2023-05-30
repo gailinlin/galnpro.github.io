@@ -17,3 +17,9 @@ Contact: 757038223@qq.com; gailinlin2023@gmail.com
 #### Certificate
 
 * TEM-8
+
+#### Skills
+
+* Blog
+* Machine Translation
+
