@@ -1,7 +1,7 @@
-[Hux Blog](https://huangxuan.me)
+[Gai Blog](https://jade-caramel-e0bdbd.netlify.app/)
 ================================
 
-> I never expect this becomes popular.
+> Start and end.
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
