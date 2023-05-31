@@ -2,25 +2,14 @@
 
 > Start and end.
 
-## [User Manual 👉](_doc/Manual.md)
+## 最近更新
 
-### Getting Started
+-   [女性更多的可能性](https://jade-caramel-e0bdbd.netlify.app/2023/05/26/more-possibility/) · 2023-05-26
+-   [如何锻炼解决问题的能力](https://jade-caramel-e0bdbd.netlify.app/2023/05/29/solve-problem/) · 2023-05-29
 
-1.  You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+## [User Manual](_doc/Manual.md)
 
-2.  Installed dependencies in the `Gemfile`:
-
-``` sh
-$ bundle install 
-```
-
-3.  Serve the website (`localhost:4000` by default):
-
-``` sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
+### To know more, checkout the [full user manual](_doc/Manual.md)
 
 ## Other Resources
 
@@ -30,11 +19,4 @@ Ports - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun - [*
 
 Translation - [🇨🇳 中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
 
-## License
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/) Copyright (c) 2013-2016 Blackrock Digital LLC.
-
-## 最近更新
-
--   [女性更多的可能性](https://jade-caramel-e0bdbd.netlify.app/2023/05/26/more-possibility/) · 2023-05-26
--   [如何锻炼解决问题的能力](https://jade-caramel-e0bdbd.netlify.app/2023/05/29/solve-problem/) · 2023-05-29
+致谢 - 模板来自[Huxpro](https://github.com/Huxpro/huxpro.github.io/tree/master)
